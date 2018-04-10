@@ -47,7 +47,7 @@ function migrationCompleted () {
   console.log('  6. Enable the Node 8 runtime (https://manage.auth0.com/#/tenant/advanced) and test your login flows')
   console.log('\n')
   console.log(chalk.blue.underline.bold('Helpful resources:\n'))
-  console.log('  Migration Guide: https://auth0.com/docs/migrations/extensibility-node8.html')
+  console.log('  Migration Guide: https://auth0.com/docs/migrations/guides/extensibility-node8')
   console.log('  Auth0 Community: https://community.auth0.com/')
   console.log('  Auth0 Support: https://support.auth0.com/')
   console.log('  Breaking changes between Node v4 LTS and v6 LTS: https://github.com/nodejs/node/wiki/Breaking-changes-between-v4-LTS-and-v6-LTS')

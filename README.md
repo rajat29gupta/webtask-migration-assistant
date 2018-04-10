@@ -47,6 +47,5 @@ After you have successfully run through the Migration Assistant, we recommend yo
 
 - [Migration Guide](https://auth0.com/docs/migrations/guides/extensibility-node8)
 - [Auth0 Community](https://community.auth0.com/)
-- [Auth0 Support](https://support.auth0.com/)
 - [Breaking changes between Node v4 LTS and v6 LTS](https://github.com/nodejs/node/wiki/Breaking-changes-between-v4-LTS-and-v6-LTS)
 - [Breaking changes between v6 LTS and v8 LTS](https://github.com/nodejs/node/wiki/Breaking-changes-between-v6-LTS-and-v8-LTS)

@@ -11,7 +11,7 @@ Once the resources have been copied over to your development tenant, it is up to
 
 The Migration Assistant relies on the Management API to copy resources from one tenant to the other. As such, you will need to:
 
-1. Ensure that the you have correctly setup a Non-Interactive Client to access the Auth0 Management API in both your source and target tenants. (See: https://auth0.com/docs/api/management/v2/tokens#automate-the-process)
+1. Ensure that you have correctly setup a Non-Interactive Client to access the Auth0 Management API in both your source and target tenants. (See: https://auth0.com/docs/api/management/v2/tokens#automate-the-process)
 2. The source (production) tenant requires that the Client is granted the following scopes: `read:connections` `read:rules`
 3. The target (development) tenant, requires that the Client is granted the following scopes: `read:connections` `read:rules` `create:connections` `create:rules` `update:connections` `update:rules`
 
